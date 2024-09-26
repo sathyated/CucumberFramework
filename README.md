@@ -4,13 +4,13 @@ Cucumber BDD from scratch, develop robust framework with Selenium WebDriver, Res
 
 **Technologies/Tools used in building the framework**
 
-Cucumber
-Java
-Selenium WebDriver
-TestNG
-JUnit
-Maven
-Rest Assured
-Jackson Data bind API
-GitHub
-Jenkins
+Cucumber,
+Java,
+Selenium WebDriver,
+TestNG,
+JUnit,
+Maven,
+Rest Assured,
+Jackson Data bind API,
+GitHub,
+Jenkins.
